@@ -1,0 +1,12 @@
+requests
+ipykernel
+python-dotenv
+pandas
+openai==1.0.0
+python-docx
+openpyxl
+ipywidgets
+ipython
+matplotlib
+bs4
+flask
