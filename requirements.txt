@@ -10,3 +10,4 @@ ipython
 matplotlib
 bs4
 flask
+networkx
