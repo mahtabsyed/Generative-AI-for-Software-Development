@@ -11,3 +11,7 @@ matplotlib
 bs4
 flask
 networkx
+pytest
+flask_sqlalchemy
+flask_wtf
+marshmallow
