@@ -2,6 +2,8 @@
 .env
 config.json
 notes_hidden.txt
+config.yaml
+config.json
 
 .DS_Store
 
