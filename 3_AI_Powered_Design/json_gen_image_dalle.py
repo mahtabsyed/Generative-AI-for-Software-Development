@@ -1,20 +1,9 @@
-# Can you write a python program to read parameters from a json file and generate an image using DALL-E model?
-# The json has these parameters
-# {
-#   "api_key": "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",
-#   "output_directory": "./generated_images",
-#   "image_size": "1024x1024",
-#   "default_prompt": "A beautiful landscape with mountains and a lake"
-# }
-
 import os
 import requests
 import secrets
 import string
 import json
 
-# Can you update this proram to read the parameters from a json file and generate an image using DALL-E model?
-# Load configuration from JSON file
 def load_config(config_path="config.json"):
     try:
         with open(config_path, "r") as file:
